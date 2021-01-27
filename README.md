@@ -1,4 +1,4 @@
-### Hola 👋, Rafael Pone
+### Rafael Pone
 Aprendiendo nuevas tecnologías 
 
 Habilidades: PHP / JAVA / HTML / CSS
