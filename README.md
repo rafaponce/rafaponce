@@ -1,4 +1,6 @@
-### Rafael Pone
+### Rafael Ponce
+### Administrador de base de datos
+
 Aprendiendo nuevas tecnologías 
 
 Habilidades: SQL / PHP
